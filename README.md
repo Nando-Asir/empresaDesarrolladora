@@ -20,7 +20,7 @@ _Proyecto de GBD sobre una Empresa Desarrolladora de Videojuegos_
 
 6. [Esquema E/R](esquema.md)
 
-7. [Paso a Tablas](paso_a_tabla.md)
+7. [Paso a Tablas](paso_a_tablas.md)
 
 8. [Normalizaciones](normalizaciones.md)
 
