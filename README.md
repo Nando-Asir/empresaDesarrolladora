@@ -7,21 +7,21 @@ _Proyecto de GBD sobre una Empresa Desarrolladora de Videojuegos_
 ![imagen](img/)
 
 ---
+ 
+- [Introducción](introduccion.md)
 
-1. [Introducción](introduccion.md)
+- [Enunciado](enunciado.md)
 
-2. [Enunciado](enunciado.md)
+- [Entidades](entidades.md)
 
-3. [Entidades](entidades.md)
+- [Relaciones](relaciones.md)
 
-4. [Relaciones](relaciones.md)
+- [Jerarquías](jerarquias.md)
 
-5. [Jerarquías](jerarquias.md)
+- [Esquema E/R](esquema.md)
 
-6. [Esquema E/R](esquema.md)
+- [Paso a Tablas](paso_a_tablas.md)
 
-7. [Paso a Tablas](paso_a_tablas.md)
+- [Normalizaciones](normalizaciones.md)
 
-8. [Normalizaciones](normalizaciones.md)
-
-9. [Autor](autor.md)
+- [Autor](autor.md)
